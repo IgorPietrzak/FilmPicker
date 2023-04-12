@@ -1,7 +1,7 @@
 # File Structure:
 FilmPicker is the frontend FilmPickerBackend is the express.js backend which connects frontend to a mongodb database.
 
-`.env` does not have the mongodb connection uri, ask me for it and paste it in to the `.env` file.
+`.env` does not have the mongodb connection uri, ask me for it (igor.pietrzak70@gmail.com) and paste it in to the `.env` file.
 
 
 # How the app works
