@@ -7,7 +7,7 @@ FilmPicker is the frontend FilmPickerBackend is the express.js backend which con
 # How the app works
 
 ## Home Screen
-<img src="[https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg](https://user-images.githubusercontent.com/96392306/231400698-0f94dc3f-a9bb-4e82-8755-841d05023471.jpeg)"  width="600" height="300">
+<img src="https://user-images.githubusercontent.com/96392306/231400698-0f94dc3f-a9bb-4e82-8755-841d05023471.jpeg"  width="600" height="300">
 
 
 From here you can view your list of films by tapping on the `Film List` button.
