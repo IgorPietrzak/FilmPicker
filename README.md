@@ -46,6 +46,11 @@ Person one gets shown a selection of 4 random movies from which they can ban the
  ```console  
 cd FilmPicker/FilmPickerBackend
 ```
+* Run 
+```console
+node server.js
+```
+if you have the mongodb connection uri
 * Install all dependencies with
 ```console
 npm install
