@@ -35,6 +35,7 @@ Person one gets shown a selection of 4 random movies from which they can ban the
 * Node.js
 * npm
 * npx
+* git
 * expo go app https://apps.apple.com/gb/app/expo-go/id982107779
 * Databse connection uri (ask me for it)
 
