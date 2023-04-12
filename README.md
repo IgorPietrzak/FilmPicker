@@ -61,7 +61,7 @@ server up on port 80
 Connected to MongoDB
 ```
 
-* Use this command to go to the frontend folder and install dependencies
+* Open a new terminal window and use this command to go to the frontend folder and install dependencies
 ```console
 cd ../FilmPicker && npm install
 ```
