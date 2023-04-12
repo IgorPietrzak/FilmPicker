@@ -50,7 +50,9 @@ cd FilmPicker/FilmPickerBackend
 ```console
 node server.js
 ```
-if you have the mongodb connection uri
+if you have the mongodb connection uri. At this stage in your terminal you should see
+`server up on port 80
+Connected to MongoDB`
 * Install all dependencies with
 ```console
 npm install
