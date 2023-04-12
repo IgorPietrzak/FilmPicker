@@ -24,7 +24,10 @@ Since this app utilises stack navigation, you are able to tap the back arrow in 
 ## Film Picker
 If on the home screen you press the `Start Film Picker` button, you will be taken here:
 
-<img src="https://user-images.githubusercontent.com/96392306/231407574-759a90dd-1d70-44d2-bb65-28a835b4f62d.PNG" width="400" height="800">
+<img src="https://user-images.githubusercontent.com/96392306/231407574-759a90dd-1d70-44d2-bb65-28a835b4f62d.PNG" width="400" height="800"><img src="https://user-images.githubusercontent.com/96392306/231408160-4dd9c5c6-31e3-4c15-91d7-33f64f0ca888.PNG" width="400" height="800">
+
+
+
 
 
 
