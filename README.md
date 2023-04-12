@@ -20,3 +20,12 @@ To add to the list, tap the `Add Film` button and you will be taken to a text fi
 <img src="https://user-images.githubusercontent.com/96392306/231402310-f23b8f94-6f56-4d98-9e01-9457fa2ae97c.jpeg" width="400" height="800">
 
 Since this app utilises stack navigation, you are able to tap the back arrow in the top left of your screen or simply swipe right to get back to a previous screen.
+
+## Film Picker
+If on the home screen you press the `Start Film Picker` button, you will be taken here:
+
+<img src="https://user-images.githubusercontent.com/96392306/231407574-759a90dd-1d70-44d2-bb65-28a835b4f62d.PNG" width="400" height="800"
+
+
+
+
