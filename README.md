@@ -1,7 +1,7 @@
 # File Structure:
 FilmPicker is the frontend FilmPickerBackend is the express.js backend which connects frontend to a mongodb database.
 
-`.env` file is missing in backend because it contains private database access keys.
+`.env` does not have the mongodb connection uri, ask me for it and paste it in to the `.env` file.
 
 
 # How the app works
@@ -36,6 +36,7 @@ Person one gets shown a selection of 4 random movies from which they can ban the
 * npm
 * npx
 * expo go app https://apps.apple.com/gb/app/expo-go/id982107779
+* Databse connection uri (ask me for it)
 
 ## Method
 
