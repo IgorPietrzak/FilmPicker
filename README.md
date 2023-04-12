@@ -46,6 +46,10 @@ Person one gets shown a selection of 4 random movies from which they can ban the
  ```console  
 cd FilmPicker/FilmPickerBackend
 ```
+* Install all dependencies with
+```console
+npm install
+```
 * Run 
 ```console
 node server.js
@@ -56,10 +60,7 @@ server up on port 80
 
 Connected to MongoDB
 ```
-* Install all dependencies with
-```console
-npm install
-```
+
 * Use this command to go to the frontend folder and install dependencies
 ```console
 cd ../FilmPicker && npm install
