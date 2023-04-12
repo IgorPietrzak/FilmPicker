@@ -44,7 +44,7 @@ Person one gets shown a selection of 4 random movies from which they can ban the
 * Clone this repository
 * Go into the backend folder with
  ```console  
-cd FilmPickerBackend
+cd FilmPicker/FilmPickerBackend
 ```
 * Install all dependencies with
 ```console
