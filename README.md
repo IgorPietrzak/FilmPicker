@@ -44,5 +44,18 @@ Person one gets shown a selection of 4 random movies from which they can ban the
  ```console  
 cd FilmPickerBackend
 ```
+* Install all dependencies with
+```console
+npm install
+```
+* Use this command to go to the frontend folder and install dependencies
+```console
+cd ../FilmPicker && npm install
+```
+* Run 
+```console 
+npx expo start
+```
+and follow the instructions.
 
 
