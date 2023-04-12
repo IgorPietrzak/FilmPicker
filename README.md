@@ -26,7 +26,7 @@ If on the home screen you press the `Start Film Picker` button, you will be take
 
 <img src="https://user-images.githubusercontent.com/96392306/231407574-759a90dd-1d70-44d2-bb65-28a835b4f62d.PNG" width="400" height="800">     <img src="https://user-images.githubusercontent.com/96392306/231408160-4dd9c5c6-31e3-4c15-91d7-33f64f0ca888.PNG" width="400" height="800">
 
-Person one gets shown a selection of 4 random movies from which they can ban the movies they do want to watch. Then, after they submit, they pass the phone onto person 2 who is presented with a random selection which will not include the movies banned by people before them. Repeat this process until there are less than 4 movies which have not been banned left. At that point the app will choose a film to watch at random.
+Person one gets shown a selection of 4 random movies from which they can ban the movies they do want to watch. Then, after they submit, they pass the phone onto person two, who is presented with a random selection which will not include the movies banned by people before them. Repeat this process until there are less than 4 movies which have not been banned left. At that point the app will choose a film to watch at random.
 
 
 
