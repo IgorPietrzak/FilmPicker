@@ -30,6 +30,16 @@ Person one gets shown a selection of 4 random movies from which they can ban the
 
 
 
+# Installation
+## Requirements:
+* Node.js
+* npm
+* npx
+* expo go app https://apps.apple.com/gb/app/expo-go/id982107779
 
+## Method
+
+* Clone this repository
+* Go into the backend folder with ```bash  cd FilmPickerBackend```
 
 
